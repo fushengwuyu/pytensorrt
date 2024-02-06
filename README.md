@@ -35,6 +35,7 @@ python t_yolo.py
 即可查看调用结果
 
 ### 5. 性能
+硬件：NVIDIA AGX XAVIER ，jetpack5.1.2，cuda11.4,tensorRT 8.5.2
 
 | 模型           | batch(1)             | batch(16)          |
 | -------------- | -------------------- | ------------------ |
